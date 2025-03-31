@@ -1,0 +1,10 @@
+path: ../datasets/Valorant_dataset
+
+train: train/images
+val: valid/images
+nc: 4  
+names:
+  - head
+  - person
+  - team_head
+  - team_person
